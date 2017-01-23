@@ -1,0 +1,26 @@
+{
+  "name": "fcc_xsurl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottmo/fcc_xsurl.git"
+  },
+  "author": "Shaocong Mo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottmo/fcc_xsurl/issues"
+  },
+  "homepage": "https://github.com/scottmo/fcc_xsurl#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.16",
+    "pug": "^2.0.0-beta6"
+  }
+}
